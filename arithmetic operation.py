@@ -1,8 +1,5 @@
-num1 = input("Enter the first number : ")   # Taking the input from the user for num1
-num2 = input("Enter the second number : ")   # Taking the input from the user for num2
-
-number1 = int(num1)   # assigning num1 to number 1 and converting it into float
-number2 = int(num2)   # assigning num2 to number 2 and converting it into float
+number1 = int(input("Enter the first number : "))  # Taking the input from the user for num1
+number2 = int(input("Enter the second number : "))   # Taking the input from the user for num2
 
 print("***Select operation***\n1.ADD\n2.SUB\n3.MUL\n4.DIV\n5.FLOORDIV\n6.MOD\n7.SQR")
 choice = input("Enter your choice : ")   # Taking the input from the user for which arithmetic operation to be performed
