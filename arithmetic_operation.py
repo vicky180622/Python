@@ -1,3 +1,7 @@
+"""The code is regarding the arithmetic operations in python
+
+This code is for calculating 2 input numbers from the user and choosing the arithmetic operation."""
+
 number1 = int(input("Enter the first number : "))  
 number2 = int(input("Enter the second number : "))   
 
